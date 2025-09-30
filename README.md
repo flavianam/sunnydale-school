@@ -4,3 +4,5 @@ Este projeto é um site de eventos para a Sunnydale School, com o objetivo de di
 🧩 Funcionalidades
 
 Listagem de eventos com data, horário, local e descrição.
+
+Projeto feito somente com HTML, o intuito era usar CSS diretamente na página do HTML.
